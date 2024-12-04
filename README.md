@@ -24,4 +24,6 @@ Here are some ideas to get you started:
 - 🏃‍➡️🎲 Hobbies: I love to keep fit and play board games!
 - ⚡ Fun fact: I have a degree in microbiology!
 
+  Now enjoy some lovely cats!
+
 ![Two cats on a bed!](https://github.com/NewCoder96/newRepository/blob/main/Two_cats.jpeg)
